@@ -6,4 +6,6 @@ Dependencies Installed:
   redux
   react-redux
   styled-components
+  react-router
+  react-router-dom
   
